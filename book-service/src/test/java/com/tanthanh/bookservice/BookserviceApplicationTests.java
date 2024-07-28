@@ -1,4 +1,4 @@
-package com.tanthanh.bookservice;
+package com.tanthanh.book;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
